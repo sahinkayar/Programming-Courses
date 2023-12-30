@@ -1,0 +1,51 @@
+.Main-div{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.My-Card{ 
+    width: 350px;
+    border: 1px solid black;
+    padding: 30px;
+    border-radius: 30px;
+   
+}
+.Main-Card{ 
+    display: flex;
+  flex-wrap: wrap ;
+  justify-content: center;
+  gap: 24px;
+}
+.Price{
+    font-style: italic;
+    color: red;
+    font-size: 20px;
+}
+button{ 
+    width: 100px;
+  padding: 10px;
+  background-color: purple;
+  color: white;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+  margin: 0px 15px;
+}
+.Btn-Div{ 
+    display: flex;
+    justify-content: center;
+}
+.Reload-Div{
+    display: flex;
+     align-items: center;
+      flex-direction: column;
+}
+h2{ 
+    font-family: monospace;
+    font-size: 30px;
+}
+.Title{ 
+    color: red;
+    font-size: 50px ;
+}

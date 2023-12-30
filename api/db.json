@@ -1,0 +1,34 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "content": "Our excellent React Course is here now! Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque aut eligendi ab quos! Aut veritatis temporibus quod nam, aliquid, repellat earum excepturi quidem praesentium mollitia explicabo asperiores ex reprehenderit illo?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo voluptatibus vitae eaque provident, doloribus architecto minima delectus error, consequuntur quos commodi nulla quia omnis adipisci maiores reprehenderit magni aut corporis.",
+      "title": "React Programming",
+      "price": 60
+    },
+    {
+      "id": 2,
+      "content": "Our excellent Mongo Course is here now! Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque aut eligendi ab quos! Aut veritatis temporibus quod nam, aliquid, repellat earum excepturi quidem praesentium mollitia explicabo asperiores ex reprehenderit illo?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo voluptatibus vitae eaque provident, doloribus architecto minima delectus error, consequuntur quos commodi nulla quia omnis adipisci maiores reprehenderit magni aut corporis.",
+      "title": "Mongo Programming",
+      "price": 60
+    },
+    {
+      "id": 3,
+      "content": "Our excellent Python Course is here now!  Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque aut eligendi ab quos! Aut veritatis temporibus quod nam, aliquid, repellat earum excepturi quidem praesentium mollitia explicabo asperiores ex reprehenderit illo?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo voluptatibus vitae eaque provident, doloribus architecto minima delectus error, consequuntur quos commodi nulla quia omnis adipisci maiores reprehenderit magni aut corporis.",
+      "title": "Python Programming",
+      "price": 60
+    },
+    {
+      "id": 4,
+      "content": "Our excellent C# Course is here now!  Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque aut eligendi ab quos! Aut veritatis temporibus quod nam, aliquid, repellat earum excepturi quidem praesentium mollitia explicabo asperiores ex reprehenderit illo?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo voluptatibus vitae eaque provident, doloribus architecto minima delectus error, consequuntur quos commodi nulla quia omnis adipisci maiores reprehenderit magni aut corporis.",
+      "title": "C# Programming",
+      "price": 60
+    },
+    {
+      "id": 5,
+      "content": "Our excellent Sql Course is here now!  Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque aut eligendi ab quos! Aut veritatis temporibus quod nam, aliquid, repellat earum excepturi quidem praesentium mollitia explicabo asperiores ex reprehenderit illo?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo voluptatibus vitae eaque provident, doloribus architecto minima delectus error, consequuntur quos commodi nulla quia omnis adipisci maiores reprehenderit magni aut corporis.",
+      "title": "Sql Programming",
+      "price": 90
+    }
+  ]
+}
